@@ -8,7 +8,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.utils import executor
 
-BOT_TOKEN = "6564194460:AAEcT_DveOivJIhwTGMBLrDNrBDDrcYTnLw"
+BOT_TOKEN = ""
 
 bot = Bot(token=BOT_TOKEN)
 storage = MemoryStorage()  # Создаем экземпляр MemoryStorage
